@@ -1,0 +1,2 @@
+REM FOR %%s IN (*.tre) DO BayesTraits.exe %%s >> scriptout.txt
+FOR %%s IN (data.*.txt) DO BayesTraits.exe UCNucleotideTreeDistanceHKY.tre %%~ns.txt <commands.txt >> scriptout.txt
