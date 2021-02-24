@@ -10,3 +10,7 @@ Small bits of code that may be useful.
 **ExtractBT.Results.pl:** This perl script extracts results from a merged BayesTraits Output
 
 **PhylogeneticMixedModel.r:** Analytic R script used in Friedlander, S. M., A. L. Herrmann, D. P. Lowry, E. R. Mepham, M. Lek, K. N. North, and C. L. Organ. (2013). ACTN3 allele frequency in humans covaries with global latitudinal gradient. PLoS One. 8(1): e52282.
+
+**wrapper_phylip.py:** Python wrapper to run phylip.
+
+**wrapper_raxml.py:** Python wrapper to run raxml.
